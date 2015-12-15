@@ -168,7 +168,7 @@ namespace TinyReplay
                     // 有些情况下比如角色的动作过于复杂，也可以保留动作控制脚本，在Record的时候记录当前动画状态，到达TimePos时间点过后，直接按照当前的
                     // 动画状态播放角色动画
                     // 必须保证同步文件和控制脚本控制的对象不发生冲突.
-                    
+
                     if (loadedPrefab != null)
                     {
                         templateObject = GameObject.Instantiate(loadedPrefab) as GameObject;

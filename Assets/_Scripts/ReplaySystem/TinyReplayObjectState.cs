@@ -105,6 +105,7 @@ namespace TinyReplay
             // color.
             this.ParsingColor(properties[2]);
         }
+        
         private void ParsingPosition(string strPosition)
         {
             if (string.IsNullOrEmpty(strPosition))
