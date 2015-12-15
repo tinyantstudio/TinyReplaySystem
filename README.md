@@ -15,10 +15,11 @@ Other version is OK.
 2. Json.Net
 
 
-**Other**
+**Other information**
+
 More Introduction and details about TinyReplaySystem
 
-Just for Chinese！
+Just in Chinese！
 
 详细介绍请移步该地址：
 
