@@ -13,6 +13,8 @@ PlugIn
 
 More Introduction and details about TinyReplaySystem
 
-Just for Chinese:
+Just for Chinese！
+
 详细介绍请移步该地址：
+
 http://protonjoy.com/tinyreplaysystem/
