@@ -1,5 +1,5 @@
 # TinyReplaySystem
-Tiny replay system.
+Tiny replay system for Unity3D.
 
 Unity3d Version: 5.1.3f
 
