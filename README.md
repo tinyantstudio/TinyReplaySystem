@@ -28,7 +28,7 @@ Just in Chinese！
 
 详细介绍请移步该地址：
 
-http://protonjoy.com/tinyreplaysystem/
+http://blog.csdn.net/fredomyan/article/details/50341629
 
 ========Email========
 
