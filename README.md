@@ -30,11 +30,8 @@ Just in Chinese！
 
 http://blog.csdn.net/fredomyan/article/details/50341629
 
-========Email========
+If you have some questions just add issues on this project.
 
-If you have some questions just email me or add issues on this project.
-
-**Email：yankun007@gmail.com**
 
 
 
